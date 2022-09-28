@@ -1,7 +1,7 @@
-# dsfa
+# DSFAS
 
   ## Description
-  asdf
+  ASDF
   
   ![image](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
@@ -17,11 +17,11 @@
   ## Installation
   
   steps to install...step-by-step...to get it running.
-  asdf
+  ASDF
   
   ## Usage
   
-  asfd
+  ASDF
     
   ##### For Screenshots: upload to "assets/images". Then Using relative filepath, add it this README with syntax:
       md
@@ -30,17 +30,17 @@
 
   ## How to Contribute
   
-  asdf
+  SAFSAD
 
 
   ## Test Instructions
   
-  sadf
+  SDF
 
 
   ## Licence
   
-  Academic Free License v3.0
+  SIL Open Font License 1.1
   
 
 TO DO BADGES!!!
@@ -48,9 +48,9 @@ TO DO BADGES!!!
 
 ## Questions
 
-You can find out more at my GitHub account: <https://github.com/afds>
+You can find out more at my GitHub account: <https://github.com/SDFAS>
 
-If have have additional answers please email me: <sadf>
+If have have additional answers please email me: <DSAF>
 
 -----
 
