@@ -1,73 +1,55 @@
-# DSFAS
+# Sean Wallace README generator
+-----
+![image](https://img.shields.io/badge/License-MIT-yellow.svg)
+##Description
+Creates a README.md file from command line prompts
 
-  ## Description
-  ASDF
-  
-  ![image](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+## Table of Contents
 
-  ## Table of Contents (Optional)
-  
-  If your README is long, add a table of contents to make it easy for users to find what they need.
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [Licence](#licence)
-  
-  ## Installation
-  
-  steps to install...step-by-step...to get it running.
-  ASDF
-  
-  ## Usage
-  
-  ASDF
-    
-  ##### For Screenshots: upload to "assets/images". Then Using relative filepath, add it this README with syntax:
-      md
-      ![alt text](assets/images/screenshot.png)
-
-
-  ## How to Contribute
-  
-  SAFSAD
-
-
-  ## Test Instructions
-  
-  SDF
-
-
-  ## Licence
-  
-  SIL Open Font License 1.1
-  
-
-TO DO BADGES!!!
-
-
-## Questions
-
-You can find out more at my GitHub account: <https://github.com/SDFAS>
-
-If have have additional answers please email me: <DSAF>
+- [Installation](#installation)
+- [Usage](#usage)
+- [Licence](#licence)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 -----
 
+## Installation
+  
 
+npm install inquirer
   
-  🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+## Usage
   
-  ## Badges
+Invoke the application by using the command "node index.js" in the Develop folder
+
+
+## Licence
+
+MIT
+
+![image](https://img.shields.io/badge/License-MIT-yellow.svg) An explanation of the licence is here: https://opensource.org/licenses/MIT
+
+
+
+## Contributing
   
-  ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-  
-  Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-  
-  ## Features
-  
-  If your project has a lot of features, list them here.
-  
-  ## How to Contribute
-  
-  If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+This generator should work with inquirer 9.1.2 or later
+
+-----
+
+## Tests
+
+Future versions: npm run test
+
+-----
+
+## RepoInfo
+Has only been tested with npm inquirer 8.2.4
+
+## Questions
+
+You can find out more at my GitHub account: <https://github.com/SeanU2022>
+
+Please send any more questions you may have to: <sean.wallace.australia@gmail.com>

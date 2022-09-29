@@ -1,7 +1,7 @@
-# Sean-Wallace-README-generator
+# Sean Wallace README generator
 Creates a README.md file from command line prompts
 
-### Seanzies Professional README Generator
+### Seans Professional README Generator
 
 This is a command-line application that generates a professional README.md file from the users' prompted inputs.
 
@@ -9,23 +9,7 @@ This is a command-line application that generates a professional README.md file 
 Challenge Module 09 Node.js
 
 ## How to use this Application
-Install [Node.js](https://nodejs.org/en/) then [Inquirer](https://www.npmjs.com/package/inquirer) and [Chalk](https://www.npmjs.com/package/chalk). Then in the Terminal Commmand Line change to your project directory/folder and run "node index.js" or "node genreadme.js". A professional README.md file will be created from the questions you answer.
-
-## MY TASK  MY TASK  MY TASK  MY TASK *********************
-
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
-
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
-
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
-
-The application will be invoked by using the following command:
-
-```bash
-node index.js
-```
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
+Install [Node.js](https://nodejs.org/en/) then [Inquirer](https://www.npmjs.com/package/inquirer). Then in the Terminal Commmand Line change to Sean-Wallace-README-generator/Develop folder and run "node index.js". A professional README.md file will be created from the questions you answer.
 
 
 ## User Story
@@ -38,7 +22,7 @@ SO THAT I can quickly create a professional README for a new project
 
 ## Acceptance Criteria
 
-```md
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -56,36 +40,10 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## GETTING STARTED GETTING STARTED GETTING *************
+-----
 
-Here are some guidelines to help you get started:
+## Application
+The README generator can be downloaded here: https://github.com/SeanU2022/Sean-Wallace-README-generator
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
-
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
-
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
-
-* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
-
-
-
-## REVIEW REVIEW REVIEW REVIEW REVIEW **************
-
-You are required to submit the following for review:
-
-* A walkthrough video demonstrating the functionality of the application.
-
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
----
-
-## Deployed Application
-You can use Seanzies' README.md generator here: 
-
----
+-----
 © 2022 Sean Wallace. Confidential and Proprietary. All Rights Reserved.
