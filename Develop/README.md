@@ -1,7 +1,8 @@
 # Sean Wallace README generator
 -----
 ![image](https://img.shields.io/badge/License-MIT-yellow.svg)
-##Description
+
+## Description
 Creates a README.md file from command line prompts
 
 ## Table of Contents

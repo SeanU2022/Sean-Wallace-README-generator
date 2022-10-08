@@ -105,7 +105,7 @@ function generateMarkdown(answer, arrayOfLicences) {
   return `# ${answer.title}
 -----
 ${renderLicenceBadge(answer.licence)}
-##Description
+## Description
 ${answer.description}
 
 ## Table of Contents
